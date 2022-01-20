@@ -1,0 +1,103 @@
+#body{
+	width: 920px;
+	margin: auto;
+	margin-right: 900px;
+	margin-left: 20px;
+	padding-right:  250px;
+	background: #F9FAFF;
+	padding-bottom: 20px;
+	margin-bottom: 0px;
+}
+
+#body header a:hover{
+	text-decoration: underline;
+}
+
+
+
+#body header a{
+	font-family: sans-serif;
+	text-decoration: none;
+	font-size: 50px;
+	color: black;
+}
+
+h1{
+	font-size: 300%;
+	font-family: sans-serif;
+}
+
+h2{
+	font-size: 250%;
+	font-family: sans-serif;
+}
+
+img{
+	padding-left: 30%;
+	width: 60%;
+}
+
+
+#body a{
+	text-decoration: none;
+}
+
+#body h1, h2, p{
+	color: black;
+
+}
+
+p{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+#header{
+	padding: 0px 100px 0px 50px;
+	background: #;
+	font-family: sans-serif;
+	margin-right: 800px;
+}
+
+#header a{
+	padding: 50px 100px 100px 0px;
+}
+
+#header nav{
+	display: inline-block;
+	width: 500px;
+	margin-top: 20px;
+}
+
+#section{
+	float: left;
+	margin-right: 300px;
+}
+
+
+
+label, input, textarea{
+	width: 800px;
+	padding-right: 150px;
+	margin: auto;
+}
+
+
+
+input[type="radio"]{
+	width: 20%;
+}
+
+label, input[type="submit"]{
+	display: block;
+}
+ textarea{
+ 	width: 50%;
+ 	height: 100%;
+ }
+
+ footer{
+ 	margin-bottom: 800px;
+ 	width: 800px;
+ 	padding: 150px;
+ }

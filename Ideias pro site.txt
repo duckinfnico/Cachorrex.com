@@ -1,0 +1,11 @@
+Uma página inicial convidativa
+Eu vou ter uma homepage e um link
+dentro da home que vai me levar a uma outra
+página, que então, vai ter todos os links
+pra cada raça de cachorro
+Poodle
+Pastor-alemão
+Jack Russel terrier
+Dálmata
+Pinsher
+Rottweiler
